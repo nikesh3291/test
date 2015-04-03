@@ -1,4 +1,4 @@
 notify:
   webhooks:
     # A list of hook hashes, containing the url field
-    - url: https://example.com/hooks/circle
+    - url: https://circleci.com/gh/nikesh3291/test
