@@ -1,3 +1,10 @@
+general:
+  branches:
+    only:
+      - develop # branches to build
+      - /QA_.*/
+
+
 notify:
   webhooks:
     # A list of hook hashes, containing the url field
