@@ -4,6 +4,11 @@ general:
       - develop # branches to build
       - /QA_.*/
 
+# A list of tasty fruits
+- Apple
+- Orange
+- Strawberry
+- Mango
 
 notify:
   webhooks:
